@@ -1,0 +1,16 @@
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\bin\Debug\netstandard2.0\Lab16Final.deps.json
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\bin\Debug\netstandard2.0\Lab16Final.dll
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\bin\Debug\netstandard2.0\ref\Lab16Final.dll
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\bin\Debug\netstandard2.0\Lab16Final.pdb
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\View\StudentPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\View\StudentsPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.AssemblyInfoInputs.cache
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.AssemblyInfo.cs
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.dll
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\ref\Lab16Final.dll
+C:\Users\toshiba\source\repos\Lab16Final\Lab16Final\Lab16Final\obj\Debug\netstandard2.0\Lab16Final.pdb

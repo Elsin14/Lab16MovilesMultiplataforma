@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab16Final.View.StudentPage">
+  <ContentPage.Content>
+      <StackLayout Margin="15">
+            <Label Text="DNI" />
+            <Entry Text="{Binding Path=DNI}"
+                   Placeholder="Enter DNI"/>
+          
+            <Label Text="LastName"/>
+            <Entry Text="{Binding Path=lastName}"
+                   Placeholder="Enter LastName"/>
+   
+            <Label Text="Date of Birth"/>
+            <DatePicker Date="{Binding Path=dateBirth}" />
+
+            <Label Text="Grade"/>
+            <Entry Text="{Binding Path=Grade}"
+                   Placeholder="Enter grade"/>
+
+            <Label Text="Name"/>
+            <Entry Text="{Binding Path=Name}"
+                   Placeholder="Enter Name"/>
+
+            <Button Text="Save"
+                    Clicked="OnSaveButtonClicked"/>
+            <Button Text="Delete"
+                    Clicked="OnDeleteButtonClicked"/>
+            <Button Text="Cancel"
+                    Clicked="OnCancelButtonClicked"/>
+        </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
